@@ -1,0 +1,6 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/props/lights/NeonLightWall.vtf"
+$selfillum 1
+}

@@ -1,0 +1,6 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/props/techdeco/laboratory/XRayMachine.vtf"
+$selfillum 1
+}

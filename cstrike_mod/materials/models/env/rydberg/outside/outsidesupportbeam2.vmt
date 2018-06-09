@@ -1,0 +1,15 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/env/rydberg/outside/OutsideSupportBeam2.vtf"
+$bumpmap "models/env/rydberg/outside/Outside_OilPipelineStraight_normal"
+$surfaceprop concrete
+$model 1
+$blendtintbybasealpha 1
+
+$phong 1
+$phongboost 10
+$phongexponent 5
+
+$phongfresnelranges "[.1 .25 1]"
+}

@@ -1,0 +1,16 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/props/techdeco/reactor_core/reactor_control_cables"
+$bumpmap "dev/flat_normal"
+
+$phong 1
+$phongboost 3
+$phongexponent 30
+
+$phongfresnelranges "[1 3 10]"
+
+
+
+
+}

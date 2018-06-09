@@ -1,0 +1,5 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/props/furniture/shelves/Cabinet01.vtf"
+}

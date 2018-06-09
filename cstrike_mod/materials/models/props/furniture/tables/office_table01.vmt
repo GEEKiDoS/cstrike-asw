@@ -1,0 +1,12 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/props/furniture/tables/office_table01"
+$bumpmap "dev/flat_normal"
+
+$phong 1
+$phongboost 2
+$phongexponent 20
+
+$phongfresnelranges "[1 3 10]"
+}

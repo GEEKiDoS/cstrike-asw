@@ -1,0 +1,11 @@
+
+VertexLitGeneric
+{
+$model 1
+$phong 1
+$phongfresnelranges "[1 1 20]"
+$phongboost 1
+$phongexponent 4
+$baseTexture "models/swarmprops/techdeco/rocketmesh/rail"
+$bumpmap "models/swarmprops/techdeco/rocketmesh/rail_normal"
+}

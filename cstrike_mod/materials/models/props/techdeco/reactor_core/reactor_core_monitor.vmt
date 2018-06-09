@@ -1,0 +1,6 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/props/techdeco/reactor_core/reactor_core_monitor"
+$selfillum 1
+}

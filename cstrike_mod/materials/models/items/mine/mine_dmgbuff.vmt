@@ -1,0 +1,15 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/items/Mine/Mine_DmgBuff"
+$bumpmap "dev/flat_normal"
+$selfillum 1
+$phong 1
+$phongboost 2
+$phongexponent 320
+$phongfresnelranges "[1 2 8]"
+
+$rimlight 1
+$rimlightexponent 3`
+$rimlightboost 5
+}

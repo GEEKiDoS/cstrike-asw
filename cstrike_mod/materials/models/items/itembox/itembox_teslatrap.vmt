@@ -1,0 +1,16 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/items/ItemBox/ItemBox_TeslaTrap"
+$bumpmap "dev/flat_normal"
+$surfaceprop metal
+$selfillum 1
+$phong 1
+$phongboost "1.25"
+$phongexponent 40
+$phongfresnelranges "[1 1 2]"
+
+$rimlight 1
+$rimlightexponent 15
+$rimlightboost 1.2
+}

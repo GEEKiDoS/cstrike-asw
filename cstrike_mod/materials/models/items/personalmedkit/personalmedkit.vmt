@@ -1,0 +1,11 @@
+VertexlitGeneric
+{
+$basetexture "models\items\personalMedKit\personalMedKit"
+$bumpmap "dev/flat_normal"
+$phong 1
+$phongexponent 300
+$phongtint "[1 1 1]"
+$phongboost 5
+$phongfresnelranges "[.1 0.5 1]"
+$selfillum 1
+}

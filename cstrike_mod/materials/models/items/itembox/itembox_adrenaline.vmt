@@ -1,0 +1,16 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/items/ItemBox/ItemBox_Adrenaline"
+$bumpmap "dev/flat_normal"
+$surfaceprop metal
+$selfillum 1
+$phong 1
+$phongboost 6
+$phongexponent 30
+$phongfresnelranges "[1 4 10]"
+
+$rimlight 1
+$rimlightexponent 10
+$rimlightboost 6
+}

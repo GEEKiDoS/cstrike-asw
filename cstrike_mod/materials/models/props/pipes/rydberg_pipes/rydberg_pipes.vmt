@@ -1,0 +1,17 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/props/pipes/rydberg_pipes/rydberg_pipes"
+$blendtintbybasealpha 1
+$bumpmap "models/props/pipes/rydberg_pipes/rydberg_pipes_normal"
+
+$phong 1
+$phongboost 1
+$phongexponent 4
+
+$phongfresnelranges "[1 3 10]"
+
+
+
+
+}

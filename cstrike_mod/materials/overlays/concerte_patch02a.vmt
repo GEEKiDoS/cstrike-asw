@@ -1,0 +1,13 @@
+LightMappedGeneric
+{
+$basetexture "overlays\concerte_patch02a"
+
+
+
+
+$translucent 1
+$decal 1
+$surfaceprop concrete
+"%keywords" alienswarm
+$vertexalpha 1
+}

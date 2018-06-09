@@ -1,0 +1,6 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/weapons/buffgrenade/buffgrenade.vtf"
+$selfillum 1
+}

@@ -1,0 +1,6 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/props/techdeco/reactor_core/module_rack"
+$selfillum 1
+}

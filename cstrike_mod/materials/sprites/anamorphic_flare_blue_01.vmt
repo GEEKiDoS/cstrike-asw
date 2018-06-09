@@ -1,0 +1,7 @@
+sprite
+{
+$basetexture "sprites\anamorphic_flare_blue_01"
+$nosrgb 1
+$spriteorientation vp_parallel
+$spriteorigin "[ 0.50 0.50 ]"
+}

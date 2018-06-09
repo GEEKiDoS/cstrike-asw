@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+$basetexture "models\props\floor\tile\tilefloor022d"
+$surfaceprop tile
+$bumpmap "models\props\floor\tile\tilefloor022d_normal"
+
+$alphatest 1
+$phong 1
+$phongboost ".4"
+$phongexponent 8
+$phongfresnelranges "[1 3 10]"
+}

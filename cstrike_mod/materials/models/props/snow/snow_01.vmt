@@ -1,0 +1,12 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/props/snow/snow_01.vtf"
+$bumpmap "nature/snowfloor006d_normal"
+$translucent 1
+$phong 1
+$phongboost ".5"
+$phongexponent 5
+
+$phongfresnelranges "[3 3 10]"
+}

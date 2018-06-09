@@ -1,0 +1,9 @@
+LightMappedGeneric
+{
+$basetexture "overlays\Rydberg_Digit"
+$translucent 1
+$decal 1
+$surfaceprop concrete
+"%keywords" alienswarm
+$vertexalpha 1
+}

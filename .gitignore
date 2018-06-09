@@ -165,15 +165,27 @@ pip-log.txt
 #############
 ## Project Specific
 #############
+*.vtf
+*.mdl
+*.vtx
+*.vvd
+*.phy
+*.ani
+*.bsp
+*.nav
+*.cache
+*.wav
+*.mp3
+
 src/game/client/Release_swarm/*
 src/game/server/Release_swarm/*
 src/game/client/Debug_swarm/*
 src/game/server/Debug_swarm/*
 src/game/missionchooser/*
 
-scratch/screenshots/*
-scratch/maps/graphs/*
-scratch/cfg/config.cfg
-scratch/stats.txt
-scratch/tilegen_log.txt
-scratch/voice_ban.dt
+cstrike_mod/screenshots/*
+cstrike_mod/maps/graphs/*
+cstrike_mod/cfg/config.cfg
+cstrike_mod/stats.txt
+cstrike_mod/tilegen_log.txt
+cstrike_mod/voice_ban.dt

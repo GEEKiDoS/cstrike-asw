@@ -1,0 +1,33 @@
+"GameInfo"
+{
+	"game"		"Counter-Strike Source"
+	"title"		"    "	// asw - leave this blank as we have a texture logo
+	"type"		"multiplayer_only"
+	GameData	"cstrike.fgd"
+	InstancePath "tilegen/instances/"
+	
+	SupportsDX8     0
+	
+	"FileSystem"
+	{
+		"SteamAppId"	"630"
+		"ToolsAppId"	"211"
+		
+		"SearchPaths"
+		{
+			"Game"	"|gameinfo_path|."
+
+			// CSS
+			"Game"	"D:\SteamLibrary\steamapps\common\Counter-Strike Source\cstrike"
+
+			// HL2
+			"Game"	"D:\SteamLibrary\steamapps\common\Counter-Strike Source\hl2"
+
+			// ASW
+			//"Game"	"swarm"
+			"Game"	"swarm_base"
+
+			"Game"	"platform"
+		}
+	}
+}

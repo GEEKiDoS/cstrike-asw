@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+$phong 1
+$phongfresnelranges "[.5 2 5]"
+$phongboost 1
+$phongexponent 4
+$baseTexture "models/swarmprops/techdeco/Turbine/turbine"
+$bumpmap "models/swarmprops/techdeco/Turbine/turbine_normal"
+}

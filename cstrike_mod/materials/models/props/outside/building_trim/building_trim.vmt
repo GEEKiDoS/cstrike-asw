@@ -1,0 +1,5 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/props/outside/building_trim/building_trim.vtf"
+}

@@ -1,0 +1,12 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/props/floor/panels/rubber_pad_01.vtf"
+$bumpmap "models/props/floor/panels/rubber_pad_01_normal"
+
+$phong 1
+$phongboost ".5"
+$phongexponent 10
+
+$phongfresnelranges "[1 3 10]"
+}

@@ -1,0 +1,5 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/props/doors/Door001a_256.vtf"
+}

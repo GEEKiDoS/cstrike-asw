@@ -1,0 +1,5 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/props/bridge/bridge_support.vtf"
+}

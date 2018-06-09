@@ -1,0 +1,7 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/props/stains/stains_05.vtf"
+$translucent 1
+$blendtintbybasealpha 1
+}

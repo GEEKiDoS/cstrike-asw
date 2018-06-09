@@ -1,0 +1,6 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/props/furniture/misc/Fridge.vtf"
+$blendtintbybasealpha 1
+}

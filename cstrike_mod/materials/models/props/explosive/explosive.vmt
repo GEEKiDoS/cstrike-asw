@@ -1,0 +1,18 @@
+
+VertexLitGeneric
+{
+$basetexture "models\props\explosive\explosive"
+$bumpmap "models\props\explosive\explosive_norm"
+$model 1
+$blendtintbybasealpha 1
+$selfillum 1
+$phong 1
+$phongboost 4
+$phongexponent 30
+
+$phongfresnelranges "[1 3 10]"
+
+
+
+
+}

@@ -1,0 +1,16 @@
+Refract
+{
+$model 1
+$refractamount ".02"
+$bluramount 0
+$scale "[1 1]"
+$dudvmap "models/items/shield_bubble/shield_bubble_dudv"
+$normalmap "models/items/shield_bubble/shield_bubble_normal"
+$bumpframe 0
+$translucent 1
+
+$forcerefract 1
+$nofog 1
+$refracttint "{255 250 250}"
+$nocull 1
+}

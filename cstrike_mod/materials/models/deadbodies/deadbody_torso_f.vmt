@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+$basetexture "models/deadbodies/deadbody_torso_f_color"
+$bumpmap "dev/flat_normal"
+$phong 1
+$phongexponent 15
+$phongfresnelranges "[.1 .5 1]"
+$phongboost 1
+}

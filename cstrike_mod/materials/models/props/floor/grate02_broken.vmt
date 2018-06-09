@@ -1,0 +1,6 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/props/floor/grate02_broken.vtf"
+$alphatest 1
+}

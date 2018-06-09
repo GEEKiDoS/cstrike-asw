@@ -1,0 +1,18 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/env/rydberg/outside/Outside_OilPipelineConnector.vtf"
+$bumpmap "models/env/rydberg/outside/Outside_OilPipelineStraight_normal"
+$model 1
+$blendtintbybasealpha 1
+
+$phong 1
+$phongboost 2
+$phongexponent 5
+
+$phongfresnelranges "[1 3 10]"
+
+
+
+
+}
